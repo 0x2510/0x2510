@@ -10,7 +10,7 @@ On the internet as 0x2510 and I'm a Penetration Tester and Red Teamer at Salesfo
 - Randomly listing some things i like linux, programming languages, parrotos, web, bitcoin, mechanical keyboards, boxing, writing, and F1 🏎️
 - I sometimes blog some stuff I do, check out [blog.0x2510.com](https://blog.0x2510.com/) 🖋
 - I used to run a [newsletter](https://nancletter.0x2510.com) called NanCletter that you should've check it out! I tried to share stuff I read/watched every day about tech. 📰
-- GPG: 1EAC62FCE2263A61
+- GPG: 85FA97855D68947C
 - My bitcoin address is bc1qvm7fz3aydws7y2leq6zaxhufdrtuq3hux4vuty
 
 If you'd like to talk to me about tech or F1, reach out to me via email or Twitter!
